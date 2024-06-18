@@ -4,7 +4,7 @@ public class Publicexample {
 	
  int a=9;
 	
-	protected char f='y';   // data members or properties
+	private char f='y';   // data members or properties
 
 	public static void main(String[] args) {
 		
@@ -13,7 +13,6 @@ public class Publicexample {
 		System.out.println(u.a);
 		System.out.println(u.f);
 		
-	
 
 	}
 
