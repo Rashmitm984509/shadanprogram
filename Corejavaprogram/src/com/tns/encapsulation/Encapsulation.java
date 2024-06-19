@@ -6,6 +6,8 @@ public class Encapsulation {
 	String name;
 	int age;
 	
+	
+	
 	public void show() {    // method or member function
 		System.out.println("serialnumber  "+serialnumber+"  " +"name   "+name+"  " +"age   "+age);
 	}
